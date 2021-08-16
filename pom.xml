@@ -15,13 +15,4 @@
 
     <name>Aureycore Commons</name>
     <description>Common utilities for Spigot plugin development</description>
-
-    <dependencies>
-        <dependency>
-            <groupId>net.luckperms</groupId>
-            <artifactId>api</artifactId>
-            <version>5.1</version>
-            <scope>provided</scope>
-        </dependency>
-    </dependencies>
 </project>
